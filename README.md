@@ -105,14 +105,15 @@ Note: Some steps may not apply to your target.
   - m4ll0k's "secretfinder", edoardott's "cariddid"
 
 ## Fingerprinting
-  - projectdiscovery's "httpx", urbanadventurer's "whatweb", praetorian-inc's "fingerprintx" or rverton's "webanalyze"
+  - projectdiscovery's "httpx -td", urbanadventurer's "whatweb", praetorian-inc's "fingerprintx", ShielderSec "webtech", projectdiscovery's "nuclei" w/ technology maps or rverton's "webanalyze"
   - use Wappalyzer, builtwith.com or retire.js
   
 ## Fuzzing endpoints with wordlists
   - General wordlists
   - Targeted wordlists based on fingerprinting data
   - Custom wordlists based on content
-  - 
+.
+
 ## Fuzzing Parameters
   - s0md3v's "arjun" and Sh1Yo's "x8"
     
